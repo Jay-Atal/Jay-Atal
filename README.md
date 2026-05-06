@@ -1,16 +1,76 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Jay-Atal/Jay-Atal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Jay Atal 👋
 
-Here are some ideas to get you started:
+### CS + Business @ Northeastern University · Available June – December 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Profile Views](https://komarev.com/ghpvc/?username=Jay-Atal&color=blueviolet&style=flat-square)](https://github.com/Jay-Atal)
+[![Portfolio](https://img.shields.io/badge/jayatal.com-000000?style=flat-square&logo=vercel&logoColor=white)](http://jayatal.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-atal)
+
+</div>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🎓 4th Year **Computer Science & Business Administration** student at Northeastern University
+---
+
+### 🛠️ Languages
+
+<div align="center">
+
+[![Languages](https://skillicons.dev/icons?i=python,java,ts,js,kotlin,cpp,swift)](https://skillicons.dev)
+
+</div>
+
+### 🗄️ Databases
+
+<div align="center">
+
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,redis,firebase)](https://skillicons.dev)
+
+</div>
+
+### ⚙️ Technologies & Tools
+
+<div align="center">
+
+[![Tools](https://skillicons.dev/icons?i=react,flask,git,linux,terraform,androidstudio)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
+<sub>Also: Pandas · NumPy · Scikit-Learn · Selenium · JUnit · Power BI · Neo4j · Excel</sub>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Jay-Atal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jay-Atal&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jay-Atal&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🌐 [AppleStoreJobFinder](http://jayatal.com) | Scraped all 274 Apple Store listings and built a REST API with map visualization to filter roles by location | `Python` `Flask` `React` `Tailwind` |
+| 📱 [Pigeoner](https://github.com/Jay-Atal/Pigeoner) | Android social networking app with real-time messaging, likes, follows, notifications, and Firebase storage | `Java` `Android Studio` `Firebase` |
+| 💬 [Class Chatter](https://github.com/Jay-Atal) | HackUMASS — anonymous livechat Q&A with upvoting and MongoDB Atlas vector search to cluster questions | `React` `Python` `MongoDB Atlas` |
+| 📋 [Jay's Java Journal](https://github.com/Jay-Atal/TaskManager-JaysJavaJournal) | Weekly planner app using MVC and OOP principles with a full JavaFX UI and integrated backend | `Java` `JavaFX` |
+| 🔍 [DreamWorks](https://github.com/Jay-Atal/Dreamworks) | Mock co-op search tool with a MySQL database and Flask REST API for browsing co-op experience reviews | `Python` `Flask` `MySQL` |
+| 🏏 [Cricket Data Analysis](https://github.com/Jay-Atal/Cricket-Data-Analysis) | Data analysis and visualization on cricket match data using Jupyter Notebooks | `Python` `Pandas` `NumPy` |
